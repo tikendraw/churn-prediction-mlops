@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "churn-prediction-mlops"
+version = "0.1.0"
+description = "Employee churn prediction ml system"
+authors = ["tikendraw <tikendraksahu1029@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
