@@ -1,0 +1,11 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+3301,15801904,Heard,677,Germany,Male,28,0,143988.0,2,1,0,8755.69,1
+6324,15615828,Mitchell,550,France,Male,34,8,122359.5,1,0,0,116495.55,0
+236,15772896,Dumetochukwu,763,Germany,Male,42,6,100160.75,1,1,0,33462.94,1
+1514,15729040,Lamb,440,France,Male,42,2,0.0,2,1,0,49826.68,0
+2377,15730738,Chiang,786,Spain,Male,31,9,0.0,2,1,1,18210.36,0
+9398,15672467,Coles,766,France,Female,52,7,92510.9,2,0,1,66193.61,0
+5315,15788068,Lopez,"743hello",Germany,Male,45,10,144677.19,3,1,0,22512.44,1
+2546,15687130,Nkemjika,686,France,Female,43,0,0.0,1,1,1,170072.9,0
+9542,15669290,Fan,603,France,Male,38,8,59360.77,1,1,1,191457.06,0
+9401,15584897,Kuo,639,France,Female,31,3,98360.03,1,0,0,20973.8,0
